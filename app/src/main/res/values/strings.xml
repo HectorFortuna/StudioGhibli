@@ -2,4 +2,7 @@
     <string name="app_name">StudioGhibli</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="characters">Characters</string>
 </resources>
